@@ -84,7 +84,7 @@ Currently:
 
 ## 📫 Contact Me
 
-- ✉️ Email: shivamrajputdev@gmail.com
+- ✉️ Email: prashantdas336@gmail.com
 - 🌐 Portfolio: [Zyphorium Labs](https://zyphoriumlabs.onrender.com/)
 - 💼 LinkedIn: [prashant-kumar-das](https://www.linkedin.com/in/prashant-kumar-das/)
 - 🐦 Twitter: [@itzmepkd](https://x.com/itzmepkd)
