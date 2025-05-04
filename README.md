@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi! I'm a ** Mechanical Engineering Student** with a strong passion for **Full-Stack Development**, building real-world projects with **MERN**, and **Android apps** using **Kotlin + Jetpack Compose**. 
+Hi! I'm a **Mechanical Engineering Student** with a strong passion for **Full-Stack Development**, building real-world projects with **MERN**, and **Android apps** using **Kotlin + Jetpack Compose**. 
 
 I'm also the co-founder of **[Zyphorium Labs](https://zyphoriumlabs.onrender.com/)** – a dev agency helping businesses go digital with modern web and mobile apps.
 
@@ -17,6 +17,17 @@ Currently:
 - 🔥 Freelancing & building products for clients
 - 🛠 Exploring **3D Printing & Slicer Customization** (Ultimaker Cura, PrusaSlicer, OrcaSlicer)
 - 🏆 Building college hackathon and startup projects like **Geo-based Attendance Tracker** 
+
+---
+## 🚀 Currently Building
+
+### 💡 [Regretify](https://regretify.netlify.app/)  – A Social Startup App  
+> An anonymous social app where users share life regrets, browse others' stories, and react in real time.
+
+- 🔧 Tech Stack: **MERN**, **Socket.IO**, **Kotlin + Jetpack Compose**
+- 📱 Features: Auth, Regret Feed, Comments, Reactions, Bookmarks
+- 🔁 Real-time updates with Socket.IO
+- 🎯 Built with a **modular backend** and **MVVM Android architecture**
 
 ---
 
@@ -43,7 +54,7 @@ Currently:
 
 ## 🛠 Projects & Products
 
-### 🔗 [Regretify](https://github.com/theprashantkumardas/RegretifyApp) *(in progress)*
+### 🔗 [Regretify](https://regretify.netlify.app/) *(in progress)*
 > An anonymous social app to share regrets, reflect on life experiences, and interact with others in real-time using Socket.IO.
 
 - MERN stack + Jetpack Compose
@@ -67,16 +78,22 @@ Currently:
 ### 🛰️ Geo-Attendance App (Hackathon Project)
 > Location-based attendance tracking system for students & teachers.
 
-- Kotlin + Firebase front-end
+- Kotlin + Jetpack Compose front-end
 - Node.js + MongoDB backend
 - Real-time updates and QR fallback
+
+### 🏸 HectoClash App (Hackathon Project)
+> A real-time, competitive mental math game.
+
+- Kotlin + Jetpack Compose front-end
+- Node.js + MongoDB backend
+- Real-time updates with Socket.io
 
 ---
 
 ## 🎯 Goals
 
-- 💼 Land an internship at a top MNC like **Google** or **Microsoft**
-- 🏅 Get selected for **GSoC 2025**
+- 💼 Land at top MNC like **Google** or **Microsoft**
 - 🚀 Launch more client projects via **Zyphorium Labs**
 - 🧠 Dive deeper into **IoT & Embedded Systems** for 3D printing automation
 
@@ -85,7 +102,8 @@ Currently:
 ## 📫 Contact Me
 
 - ✉️ Email: prashantdas336@gmail.com
-- 🌐 Portfolio: [Zyphorium Labs](https://zyphoriumlabs.onrender.com/)
+- 💻 Portfolio: [prashant](https://prashantkumardas.onrender.com/)
+- 🌐 Agency: [Zyphorium Labs](https://zyphoriumlabs.onrender.com/)
 - 💼 LinkedIn: [prashant-kumar-das](https://www.linkedin.com/in/prashant-kumar-das/)
 - 🐦 Twitter: [@itzmepkd](https://x.com/itzmepkd)
 
