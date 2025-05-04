@@ -1,22 +1,22 @@
-<h1 align="center">Hi there, I'm Shivam 👋</h1>
+<h1 align="center">Hi there, I'm Prashant 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Android+Jetpack+Compose+Enthusiast;MERN+Stack+Specialist;Firebase+Expert;GSoC+2025+Aspirant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Android+Jetpack+Compose+Enthusiast;MERN+Stack+Specialist;Firebase+Expert;" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Hi! I'm a **Final-Year Mechanical Engineering Student** with a strong passion for **Full-Stack Development**, building real-world projects with **MERN**, and **Android apps** using **Kotlin + Jetpack Compose**. 
+Hi! I'm a ** Mechanical Engineering Student** with a strong passion for **Full-Stack Development**, building real-world projects with **MERN**, and **Android apps** using **Kotlin + Jetpack Compose**. 
 
-I'm also the co-founder of **[Zyphorium Labs](https://zyphoriumlabs.onrender.com)** – a dev agency helping businesses go digital with modern web and mobile apps.
+I'm also the co-founder of **[Zyphorium Labs](https://zyphoriumlabs.onrender.com/)** – a dev agency helping businesses go digital with modern web and mobile apps.
 
 Currently:
 - 🚀 Preparing for **Google Summer of Code 2025**
 - 🔥 Freelancing & building products for clients
 - 🛠 Exploring **3D Printing & Slicer Customization** (Ultimaker Cura, PrusaSlicer, OrcaSlicer)
-- 🏆 Building college hackathon and startup projects like **Regretify** and **Geo-based Attendance Tracker**
+- 🏆 Building college hackathon and startup projects like **Geo-based Attendance Tracker** 
 
 ---
 
@@ -43,7 +43,7 @@ Currently:
 
 ## 🛠 Projects & Products
 
-### 🔗 [Regretify](https://github.com/shivam-rajput07) *(in progress)*
+### 🔗 [Regretify](https://github.com/theprashantkumardas/RegretifyApp) *(in progress)*
 > An anonymous social app to share regrets, reflect on life experiences, and interact with others in real-time using Socket.IO.
 
 - MERN stack + Jetpack Compose
@@ -62,7 +62,7 @@ Currently:
 
 - Highlights web/app dev services
 - Fully responsive and customizable site
-- Live @ [zyphoriumlabs.onrender.com](https://zyphoriumlabs.onrender.com)
+- Live @ [zyphoriumlabs.onrender.com](https://zyphoriumlabs.onrender.com/)
 
 ### 🛰️ Geo-Attendance App (Hackathon Project)
 > Location-based attendance tracking system for students & teachers.
@@ -85,9 +85,9 @@ Currently:
 ## 📫 Contact Me
 
 - ✉️ Email: shivamrajputdev@gmail.com
-- 🌐 Portfolio: [Zyphorium Labs](https://zyphoriumlabs.onrender.com)
-- 💼 LinkedIn: [shivam-rajput07](https://linkedin.com/in/shivam-rajput07)
-- 🐦 Twitter: [@shivamrajput_dev](https://twitter.com/shivamrajput_dev)
+- 🌐 Portfolio: [Zyphorium Labs](https://zyphoriumlabs.onrender.com/)
+- 💼 LinkedIn: [prashant-kumar-das](https://www.linkedin.com/in/prashant-kumar-das/)
+- 🐦 Twitter: [@itzmepkd](https://x.com/itzmepkd)
 
 ---
 
@@ -98,16 +98,6 @@ Got a startup idea? Want to build something cool with me?
 
 ---
 
-## 🔥 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam-rajput07&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-rajput07&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-rajput07&layout=compact&theme=radical" />
-</p>
-
----
 
 ⭐️ Thank you for visiting my profile. Let's build the future together!
