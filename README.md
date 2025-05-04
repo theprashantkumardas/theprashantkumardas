@@ -18,7 +18,7 @@ Currently:
 - 🏆 Building college hackathon and startup projects like **Geo-based Attendance Tracker** 
 
 ---
-## 🚀 Currently Building
+## 🚀  Building
 
 ### 💡 [Regretify](https://regretify.netlify.app/)  – A Social Startup App  
 > An anonymous social app where users share life regrets, browse others' stories, and react in real time.
