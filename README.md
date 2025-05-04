@@ -13,7 +13,6 @@ Hi! I'm a **Mechanical Engineering Student** with a strong passion for **Full-St
 I'm also the co-founder of **[Zyphorium Labs](https://zyphoriumlabs.onrender.com/)** – a dev agency helping businesses go digital with modern web and mobile apps.
 
 Currently:
-- 🚀 Preparing for **Google Summer of Code 2025**
 - 🔥 Freelancing & building products for clients
 - 🛠 Exploring **3D Printing & Slicer Customization** (Ultimaker Cura, PrusaSlicer, OrcaSlicer)
 - 🏆 Building college hackathon and startup projects like **Geo-based Attendance Tracker** 
